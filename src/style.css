@@ -1,3 +1,15 @@
-h1, p {
+h1,
+p {
   font-family: Lato;
+}
+
+.tombol {
+  border-radius: 12px;
+  width: 50px;
+  height: 30px;
+  background-color: white;
+}
+
+.vertical {
+  vertical-align: bottom;
 }
